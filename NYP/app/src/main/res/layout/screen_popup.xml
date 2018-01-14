@@ -1,0 +1,38 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_element"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#444444"
+    android:orientation="vertical"
+    android:padding="10sp" >
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="26dp"
+        android:text="Are you sure?" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/bYesClear"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:text="Yes"
+            android:onClick="CfmClick"/>
+
+        <Button
+            android:id="@+id/bNoClear"
+            android:layout_width="86dp"
+            android:layout_height="wrap_content"
+            android:text="No" />
+
+    </LinearLayout>
+
+</LinearLayout>
+
+

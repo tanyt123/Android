@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NYP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="name_label">Name: "</string>
+    <string name="admin_label">AdminNo:</string>
+    <string name="reason">Type here</string>
+    <string name="amount_label">Amount:</string>
+    <string name="amount">Amount</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="value">
+        <item>Select</item>
+        <item>Withdraw</item>
+        <item>Deposit</item>
+    </string-array>
+</resources>

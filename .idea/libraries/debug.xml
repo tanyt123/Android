@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_888dc6c70591458ee998c2926f41c5e65a528d54.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_ae1c296589b36e79f3a61992e7f7ca0ef02e2f61.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_502819fa0c2f1d91921d7f81ce1592fb74e63b8d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a8c5baf242221654410fd851e4e6a94c326e482a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_cffb66a5d7fd4ad837cb5e4c0b1ec7fa2dd0b7a8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_15d60a1f103dfe9a1cbe204b52db603825ac6dfc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_5dad541132bd7bab38409cbabd3afd4b13f1926e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_a3ce3801811f581b2a8510ae043f7516730451f1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_a32cf371d4849dbc854de9f05390822d63f5e7b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_84ed1626c42386fab527afdde21bc31e8316955e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_92f99555f6105162b4a0bff7ab844b2624fafe7c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_26b6daf62487f8413dbdc89082d7ec747b1bebdf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_286543c4339630ad80c1bcf0e2d32b3a11afd6a0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/debug_6f19b63391a3d014984e99e749f1414acb4a486b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_b14bc0a5d008d462a0620a337d6e881c5e6c0c58.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_d2f013d402c7a1734d97721c51254c5a4cf210a3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/NYP/app/build/intermediates/pre-dexed/debug/classes_865ab1ce0cd5801b5c7f7f8d645d856b39d72947.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
